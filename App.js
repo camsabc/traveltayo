@@ -20,14 +20,13 @@ function App() {
     <BrowserRouter>
          
          <Routes>
- 
-           <Route path="/traveltayo/Contact" element={<Contact/>}> </Route>
-           <Route path="/Educ" element={<Educ/>}> </Route>
-           <Route path="/Vip" element={<Vip/>}> </Route>
-           <Route path="/Services" element={<Services/>}> </Route>
-           <Route path="/Profile" element={<Profile/>}> </Route>
- 
-         </Routes>
+  <Route path="/traveltayo/Contact" element={<Contact/>} />
+  <Route path="/traveltayo/Educ" element={<Educ/>} />
+  <Route path="/traveltayo/Vip" element={<Vip/>} />
+  <Route path="/traveltayo/Services" element={<Services/>} />
+  <Route path="/traveltayo/Profile" element={<Profile/>} />
+</Routes>
+
      
      
        </BrowserRouter>
