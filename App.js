@@ -21,7 +21,7 @@ function App() {
          
          <Routes>
  
-           <Route path="/Contact" element={<Contact/>}> </Route>
+           <Route path="/traveltayo/Contact" element={<Contact/>}> </Route>
            <Route path="/Educ" element={<Educ/>}> </Route>
            <Route path="/Vip" element={<Vip/>}> </Route>
            <Route path="/Services" element={<Services/>}> </Route>
