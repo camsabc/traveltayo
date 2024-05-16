@@ -1,0 +1,157 @@
+
+
+.fff {
+    display: flex;
+    justify-content: center; 
+    color: #4d3418;
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 40px;
+    margin-top: 0.5%;
+    width: 100%;
+    margin-bottom: 3%;
+  }
+  
+
+.ccon {
+    display: flex;
+    width: 100%;
+    
+    
+}
+.c1{
+    width: 10%;
+    margin-left: 2%;
+    justify-content: space-evenly;
+
+}
+
+.c2{
+    width: 25%;
+
+}
+
+.whatsapp-icon2 {
+    display: inline-block;
+    margin-left: 8%;
+    width: 80%;
+    justify-content: center;
+    margin-bottom: 4%;
+}
+
+.whatsapp-icon {
+    display: inline-block;
+    margin-left: 8%;
+    width: 80%;
+    justify-content: center;
+    margin-bottom: 6%;
+
+}
+
+.w1- {
+    display: inline-block;
+    margin-left: 7%;
+    width: 80%;
+    justify-content: center;
+    margin-bottom: 4%;
+
+}
+
+
+.icon{
+    background-color: green;
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+    font-size: 30px;
+    margin-right: 1%;
+    margin-bottom: 4%;
+}
+
+.globe{
+    color: black;
+    font-size: 80px;
+    margin-bottom: 10%;
+    margin-bottom: 4%;
+
+
+}
+
+.icon2{
+    background-color: purple;
+    padding: 10px;
+    border-radius: 50%;
+    color: white;
+    font-size: 30px;
+    margin-right: 1%;
+    margin-bottom: 15%;
+
+}
+
+.fb{
+    width: 40%;
+    margin-left: 2%;
+    margin-bottom: 3%;
+    height: 30%;
+    margin-bottom: 15%;
+}
+
+.ig{
+    width: 40%;
+    margin-left: 2%;
+}
+
+.t1{
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: 3%;
+}
+
+.t2{
+    font-size: x-large;
+    font-weight: 500;
+
+}
+
+.t3{
+    font-size: x-large;
+    font-weight: 500;
+    margin-bottom: 8%;
+
+}
+
+.t4{
+    font-size: x-large;
+    margin-top: 10%;
+    font-weight: 500;
+
+}
+
+.t5{
+    font-size: x-large;
+    margin-top: 11%;
+    font-weight: 500;
+
+}
+
+.t6{
+    font-size: x-large;
+    margin-top: 13%;
+    font-weight: 500;
+
+}
+  
+.t7{
+    font-size: x-large;
+    margin-top: 12%;
+    font-weight: 500;
+}
+
+.c3{
+    width: 60%;
+}
+
+.mapdivs{
+    width: 5%;
+    
+}
